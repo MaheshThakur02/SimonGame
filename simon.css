@@ -38,3 +38,20 @@ body {
   .userflash {
     background-color: green;
   }
+@media(max-width:450px){
+  body
+    {
+      background-color: yellow;
+    }
+    .btn{
+        height: 140px;
+        width: 140px;
+        margin: 13px;
+    }
+    h1{
+      font-size: 26px;
+    }
+    h2{
+      font-size: 18px;
+    }
+  }
